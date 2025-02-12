@@ -1,2 +1,2 @@
 @id("Allow all")
-permit(principal is database::User, action, resource);
+permit(principal, action, resource);

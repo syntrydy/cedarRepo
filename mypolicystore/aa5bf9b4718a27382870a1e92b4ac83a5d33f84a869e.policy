@@ -1,0 +1,6 @@
+@id("Allow user gasmyr")
+permit (
+	principal is mypolicystore::User,
+	action,
+	resource
+);

@@ -9,6 +9,11 @@
                     "description": "allow all",
                     "creation_date": "2025-02-12T12:46:28.983077",
                     "policy_content": "QGlkKCJhbGxvdyBhbGwiKQpwZXJtaXQocHJpbmNpcGFsLCBhY3Rpb24sIHJlc291cmNlKTs="
+                },
+                "aa5bf9b4718a27382870a1e92b4ac83a5d33f84a869e": {
+                    "description": "Allow user gasmyr",
+                    "creation_date": "2025-02-12T13:12:09.372215",
+                    "policy_content": "QGlkKCJBbGxvdyB1c2VyIGdhc215ciIpCnBlcm1pdCAoCglwcmluY2lwYWwgaXMgbXlwb2xpY3lzdG9yZTo6VXNlciwKCWFjdGlvbiwKCXJlc291cmNlCik7"
                 }
             },
             "trusted_issuers": {},

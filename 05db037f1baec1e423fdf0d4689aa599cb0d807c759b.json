@@ -8,7 +8,7 @@
                 "cded5e5cb06b480f05f4594c1fc1ebc1afdd5875f004": {
                     "description": "Allow all",
                     "creation_date": "2025-02-12T14:15:05.617672",
-                    "policy_content": "QGlkKCJBbGxvdyBhbGwiKQpwZXJtaXQocHJpbmNpcGFsIGlzIGRhdGFiYXNlOjpVc2VyLCBhY3Rpb24sIHJlc291cmNlKTs="
+                    "policy_content": "QGlkKCJBbGxvdyBhbGwiKQpwZXJtaXQocHJpbmNpcGFsLCBhY3Rpb24sIHJlc291cmNlKTs="
                 }
             },
             "trusted_issuers": {},

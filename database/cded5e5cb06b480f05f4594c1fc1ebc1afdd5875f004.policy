@@ -1,0 +1,2 @@
+@id("Allow all")
+permit(principal, action, resource);

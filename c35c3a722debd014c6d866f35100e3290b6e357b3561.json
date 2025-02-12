@@ -2,7 +2,7 @@
     "cedar_version": "4.3.0",
     "policy_stores": {
         "c35c3a722debd014c6d866f35100e3290b6e357b3561": {
-            "name": "mypolicystore",
+            "name": "policystore",
             "description": "backend policies",
             "policies": {
                 "382fa86f94d1291b91a43b7d252ee1a653e7ae32ae11": {
